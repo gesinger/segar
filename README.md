@@ -2,10 +2,13 @@
 
 A tool for downloading and finding differences in audio and video timing between segments and renditions.
 
-## NOTE
+## Requirements
 
-In order for Segar to work properly, it requires playlists to include both `BANDWIDTH` and `RESOLUTION` information in `\#EXT-X-STREAM-INF`.
+In order for Segar to work properly, the master playlist must to include both `BANDWIDTH` and `RESOLUTION` information in `#EXT-X-STREAM-INF`.
 
 ## Running
 
-Run node `index.js --help` for a full listing of options.
+```javascript
+$ npm install
+$ node index.js --help # full list of options
+```
