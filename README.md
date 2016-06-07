@@ -4,7 +4,7 @@ A tool for downloading and finding differences in audio and video timing between
 
 ## Requirements
 
-In order for Segar to work properly, the master playlist must to include both `BANDWIDTH` and `RESOLUTION` information in `#EXT-X-STREAM-INF`.
+In order for Segar to work properly, the master playlist must include both `BANDWIDTH` and `RESOLUTION` information in `#EXT-X-STREAM-INF`.
 
 ## Running
 
