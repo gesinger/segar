@@ -8,7 +8,7 @@ In order for Segar to work properly, the master playlist must include both `BAND
 
 ## Running
 
-```javascript
+```
 $ npm install
 $ node index.js --help # full list of options
 ```
